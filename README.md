@@ -43,15 +43,15 @@ https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_health_st
 #### Optional Questions. `TEAMS CAN SELECT ONE ADDITIONAL OPTIONAL QUESTION (insert X in [ ])`
 - [ ] Cultural Competence in Healthcare
 > How can we design a mobile app that helps healthcare providers better understand and respect cultural differences, improving communication and care for diverse patient populations?
-- [ ] Access to Care for Rural and Remote Communities
+- [x] Access to Care for Rural and Remote Communities
 > How can we leverage technology to improve healthcare access for rural and remote communities, ensuring timely and specialized care for those in underserved areas? (Focus on SDSU Imperial Valley Connection - Rural/Remote)
-- [ ] Enhancing disease prevention (For Geocomputational Thinker Awards)
+- [x] Enhancing disease prevention (For Geocomputational Thinker Awards)
 > How can big (geospatial) data analytics and AI be used to improve access to information about the influence of human behavior, cultural practices, and social interactions on the spread of diseases?
 - [X] Addressing environmental health disparities (For Geocomputational Thinker Awards)
 > How can we leverage big (geospatial) data analytics and AI to improve access to resources that mitigate the impact of environmental factors, i.e. pollution, on health disparities?
 
 
-#### Team Coordinator GitHub Username: `@Tomasmoshi`
+#### Team Coordinator GitHub Username: `@tomasmoshi`
 
 #### Team Members `Mehri Sadri @persianpersuasion`
 
