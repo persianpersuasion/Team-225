@@ -23,7 +23,7 @@ Regression model that can predict the rise in fentanyl use and death over 5-10 y
 Model displayed in map form, where the stakeholder can interact with the map to view exact Qs of Narcan per zip code in San Diego County`
 
 
-#### A visual
+#### Our visual is linked below:
 https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_health_statistics/maps/jcr:content/par/adaptiveimage_943735138.img.full.high.png/1695316009524.png
 
 
