@@ -24,6 +24,8 @@ Model displayed in map form, where the stakeholder can interact with the map to 
 
 
 #### A visual
+https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_health_statistics/maps/jcr:content/par/adaptiveimage_943735138.img.full.high.png/1695316009524.png
+
 
 
 #### Hackathon Five CORE Themes. `CHECK ONE or TWO QUESTIONS (insert X in [ ])`.
